@@ -1,5 +1,5 @@
 ## **Configuración de las VPCS**
-### Nivel :one:
+### Nivel 1️⃣
 
 * Configuración del Equipo de **Administración**
 <p align="center">
@@ -21,7 +21,7 @@
 <img src="imgs/4.png" height="500px"/>
 </p>
 
-### Nivel :two:
+### Nivel 2️⃣
 
 * Configuración del Primer Equipo de la **oficina A**
 
@@ -39,7 +39,7 @@
 <img src="imgs/7.png" height="500px"/>
 </p>
 
-### Nivel :three:
+### Nivel 3️⃣
 
 * Configuración del Equipo de **Recepción**
 
@@ -88,3 +88,10 @@
 <img src="imgs/16.png"/>
 </p>
 
+<p align="center">
+<img src="imgs/17.png"/>
+</p>
+
+<p align="center">
+<img src="imgs/18.png"/>
+</p>
