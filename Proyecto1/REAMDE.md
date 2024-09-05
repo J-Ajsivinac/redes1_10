@@ -33,7 +33,10 @@
 ## 📷 Capturas de la implementación de la topología
 
 * **Area Administrativa**
+  
+<div align="center">
 <img src="imgs/area_admin2.png" height="500px"/>
+</div>
 
 ## 💻 Detalle de comandos usados
 
@@ -57,4 +60,6 @@
 
 * Ping entre el equipo RRHH3 y RRHH
 
+<div align="center">
 <img src="imgs/ping1.png" />
+</div>
